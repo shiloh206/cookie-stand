@@ -53,6 +53,10 @@ p {
   margin-bottom: 15px;
 }
 
+figure {
+  padding: 6%;
+}
+
 ul {
   font-size: 1.75em;
   font-family: 'Archivo', sans-serif;
